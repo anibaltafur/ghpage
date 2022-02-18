@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+<body>
+    <!--<h3>CUSTOM NAV BAR</h3>-->
+      
+    <!--HTML header tag starts here-->
+    <header> 
+		
+		<nav>
+
+		<!-- Enumerating items in navigation -->
+		  {% for item in site.data.navigation %}
+			<a href="{{ item.link }}" > {{ item.name }} </a> |
+		  {% endfor %}
+		  
+		<!-- Example of external link -->
+			<a href="https://www.google.com" target="_blank">Search!</a>
+			
+		</nav>		
+    </header>
+    <!--HTML header tag ends here-->
+	<hr>
+</body>
+
+{{ content }}
+
+<p>Custom footer</p>

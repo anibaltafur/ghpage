@@ -1,0 +1,7 @@
+# Navigation bar structure
+- name: Home
+  link: /ghpage
+- name: Page 1
+  link: /ghpage/page1
+- name: Page 2
+  link: /ghpage/page2
