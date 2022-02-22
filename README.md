@@ -6,3 +6,5 @@ Complete theme list: https://github.com/pages-themes
 **Leap Day theme** is the only one with sidebar navigation.
 
 https://pages-themes.github.io/leap-day/
+
+edited in VS Code
