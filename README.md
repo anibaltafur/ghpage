@@ -8,3 +8,5 @@ Complete theme list: https://github.com/pages-themes
 https://pages-themes.github.io/leap-day/
 
 edited in VS Code
+
+edited directly from folder in VS Code (no git extension)
